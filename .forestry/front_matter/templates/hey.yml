@@ -1,4 +1,11 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: file
+  name: files
+  label: Files
+  default: "/uploads/2018/02/17/bridge3.jpg"
+- type: file
+  label: New
+  name: new
